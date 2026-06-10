@@ -1,6 +1,9 @@
 # Revisar apuntes de git
 
-# Preparar resumen para rendir la materia
+ HEAD
+# Preparar resumen para rendir la materia final
+
+ mejora-tareas
 
 # Lectura de apuntes
 
