@@ -1,6 +1,6 @@
 # Revisar apuntes de git
 
-# Preparar resumen
+# Preparar resumen para el final
 
 # Lectura de apuntes
 
